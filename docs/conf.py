@@ -14,4 +14,5 @@ html_js_files = [
     'chat.js',]
 
 
-html_favicon = 'docs/bigfish.jpg'
+
+html_favicon = '_static/bigfish.jpg'
